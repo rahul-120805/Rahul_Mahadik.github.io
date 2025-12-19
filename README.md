@@ -30,7 +30,8 @@ Real-time tracking of player and team performance metrics using advanced data mo
 - [**View Dashboards**](link)
     
 
-
+---
+## 02. Research Publications
 
 
 ### Impact of Climate Change on Agriculture | [Publication](https://link-to-springer)
@@ -42,7 +43,7 @@ Research published in **Springer (2025)** analyzing 23 years of climate data in 
 
 ---
 
-## 02. Technical Toolkit
+## 03. Technical Toolkit
 
 - **Languages:** SQL (MySQL, PostgreSQL), Python, DAX, M Query
 - **BI & Analytics:** Power BI, SSMS, Excel, Tableau
