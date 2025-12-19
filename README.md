@@ -10,11 +10,18 @@ A machine learning solution to predict vehicle market values using regression an
 - **Key Feature:** Implemented Gradient Boosting and Random Forest with custom feature engineering to handle non-linear data relationships.
 - **Stack:** Python, Scikit-Learn, Matplotlib, Seaborn.
 
+
+
+
 ### Blinkit Sales Analysis 
 A comprehensive Power BI dashboard analyzing ₹1.2M in retail sales data to identify growth drivers.
 - **Key Feature:** Utilized M Query for data transformation and identified that Tier-1 outlets contribute 71% of total revenue.
 - **Stack:** Power BI, DAX, MS SQL Server(SSMS).
 - [**View Dashboards**](link)
+
+
+
+
 
 ### IPL Performance Dashboard 
 Real-time tracking of player and team performance metrics using advanced data modeling.
@@ -23,10 +30,15 @@ Real-time tracking of player and team performance metrics using advanced data mo
 - [**View Dashboards**](link)
     
 
+
+
+
 ### Impact of Climate Change on Agriculture | [Publication](https://link-to-springer)
 Research published in **Springer (2025)** analyzing 23 years of climate data in Maharashtra.
 - **Key Feature:** Built predictive models to identify critical climate variables affecting crop productivity.
 - **Stack:** Python, ML Regression, Statistical Modeling.
+
+
 
 ---
 
@@ -35,8 +47,11 @@ Research published in **Springer (2025)** analyzing 23 years of climate data in 
 - **Languages:** SQL (MySQL, PostgreSQL), Python, DAX, M Query
 - **BI & Analytics:** Power BI, SSMS, Excel, Tableau
 - **Databases & Big Data:** MySQL, MongoDB, Hadoop
-- **Certifications:** - Microsoft Certified: Power BI Data Analyst Associate (PL-300) — [**Verify Badge**](link-to-your-creedly)
+- **Certifications:**
+  - Microsoft Certified: Power BI Data Analyst Associate (PL-300) — [**Verify Badge**](link-to-your-creedly)
   - Microsoft Certified: Azure Data Fundamentals (DP-900) — *In Progress*
+
+
 
 ---
 
