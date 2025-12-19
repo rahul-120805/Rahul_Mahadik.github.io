@@ -1,8 +1,6 @@
-# 👋 Hi, I'm Rahul Punarth Rao Mahadik
-
-🎓 **B.Sc. Data Science Student** at **NMIMS University, Navi Mumbai**  
-📊 Aspiring **Data Analyst / Business Intelligence Analyst / Data Scientist**  
-📍 Navi Mumbai, India  
+**B.Sc. Data Science Student** at **NMIMS University, Navi Mumbai**  
+Aspiring **Data Analyst / Business Intelligence Analyst / Data Scientist**  
+Navi Mumbai, India  
 
 📧 Email: rahul_mahadik032@nmims.in  
 🔗 LinkedIn: [Rahul Punarth Mahadik](#)  
