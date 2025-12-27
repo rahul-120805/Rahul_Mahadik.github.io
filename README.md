@@ -1,23 +1,25 @@
 # Data Analytics & BI Solutions
-Focusing on high-impact BI dashboards, advanced SQL data modeling, and scalable machine learning solutions.
+# Focusing on high-impact BI dashboards, advanced SQL data modeling, and scalable machine learning solutions.
 
 ---
 
 ## 01. Projects
 
-### Automobile Price Prediction | [Code](https://github.com/rahul-mahadik/repo-link) 
+### Automobile Price Prediction | [Code](https://github.com/rahul-120805/Machine-learning-college-/blob/main/Car%20Price%20Prediction%20Machine%20Learning%20Project.ipynb) 
 A machine learning solution to predict vehicle market values using regression analysis.
-- **Key Feature:** Implemented Gradient Boosting and Random Forest with custom feature engineering to handle non-linear data relationships.
-- **Stack:** Python, Scikit-Learn, Matplotlib, Seaborn.
+- **Key Feature:** Performed Data Cleaning, Label Encoding, Exploratory Data Analysis and Feature Selection then used Regression Models to predict car prices
+- **Tools:** Python, Jupyter Notebook.
+- **Models:** Linear Regression, Random Forest, Gradient Boosting, Decision Tree.
+- **Libraries:** Pandas, Numpy, Scikit-Learn
 
 
 
-
-### Blinkit Sales Analysis 
-A comprehensive Power BI dashboard analyzing ₹1.2M in retail sales data to identify growth drivers.
+### Nifty 50 Dashboard  
+Developed an Interactive Power BI Dashboard for Nifty 50 Stocks with *dynamic* company selection, multiple time filters and candlestick based price analysis, data was imported using python script of yahoo finance. The Dashboard provides quick insights into stock performance and market trends.
 - **Key Feature:** Utilized M Query for data transformation and identified that Tier-1 outlets contribute 71% of total revenue.
 - **Stack:** Power BI, DAX, MS SQL Server(SSMS).
-- [**View Dashboards**](link)
+- **Preview:**
+- [**Dashboard Link**](https://app.powerbi.com/links/EWCLe-GxSK?ctid=d1f14348-f1b5-4a09-ac99-7ebf213cbc81&pbi_source=linkShare&bookmarkGuid=acb04753-85c8-4f1a-94ec-dd170f9598e0)
 
 
 
