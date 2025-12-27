@@ -1,5 +1,5 @@
 # Data Analytics & BI Solutions
-# Focusing on high-impact BI dashboards, advanced SQL data modeling, and scalable machine learning solutions.
+**Focusing on high-impact BI dashboards, advanced SQL data modeling, and scalable machine learning solutions**.
 
 ---
 
